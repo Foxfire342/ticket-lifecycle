@@ -57,10 +57,10 @@ ___
 <img src="https://i.imgur.com/20uOML1.png" height="80%" width="80%" alt="Login as an agent"/>
 </p>
 <p>
-Now login as one of the agents that you created in the previous tutorial. Once logged in you should see your open tickets as it
-appears above. If you are not seeing any open tickets then you will need to logout and login as an admin and check your agent's 
-permissions to make sure they were added to the Support Department. Once the agent has been added to the support department with 
-full access( no restrictions) then logout of your admin account and login in under your agent profile to proceed.
+Now login as one of the agents that you created in the previous tutorial using their username and password. Once logged in you should 
+see your open tickets as it appears above. If you are not seeing any open tickets then you will need to logout and login as an admin 
+and check your agent's permissions to make sure they were added to the Support Department. Once the agent has been added to the support 
+department with full access( no restrictions) then logout of your admin account and login in under your agent profile to proceed.
 </p>
 
 ___
@@ -75,6 +75,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ___
 
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+
+___
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
