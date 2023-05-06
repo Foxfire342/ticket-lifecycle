@@ -71,6 +71,10 @@ ___
 </p>
 <p>
 Let's start by addressing our first ticket. Open one of the tickets and it should look similiar to the picture shown above.
+Next we will start "working" the ticket. Based on the information sent to us by the user we will first evaluate if we need to
+make a change to the priority level. You can change the priority level by clicking on "Normal" next it and a window should pop up
+with different priority options. In my example, given that the online banking system is down, I changed the priority from Normal to
+emergency given the situation. After updating the priority
 </p>
 
 ___
