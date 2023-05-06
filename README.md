@@ -45,6 +45,10 @@ ___
 </p>
 <p>
 In order to create your first ticket head over to http://localhost/osTicket/. Once on the page click " Open a New Ticket".
+Then on the ticket creation page you will want to enter in the email address of one of the users you created in the previous 
+configuration tutorial along with their name. Next choose a help topic and fill out the ticket details sections. Once you are done
+hit "create ticket" and you will have created your first ticket in osTicket. Repeat these steps to create your second and third ticket
+and then we will move on to the next step.
 </p>
 
 ___
