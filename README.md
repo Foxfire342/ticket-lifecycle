@@ -67,6 +67,16 @@ ___
 
 
 <p>
+<img src="https://i.imgur.com/MUVbaVr.png" height="80%" width="80%" alt="Ticket Assignment and Communication"/>
+</p>
+<p>
+Let's start by addressing our first ticket. Open one of the tickets and it should look similiar to the picture shown above.
+</p>
+
+___
+
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
@@ -74,7 +84,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 
 ___
-
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
