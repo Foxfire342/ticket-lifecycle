@@ -35,16 +35,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <p>
 Now that we have finished configuring osTicket from the last tutorial we will now be demonstrating the ticket lifecycle from
 creation to resolution by creating new tickets through osTicket and resolving them using the agents we configured in the last 
-tutorial. Right now we currently do not have any tickets open and so our first step will be to create our first ticket.5
+tutorial. Right now we currently do not have any tickets open and so our first step will be to create our first three new tickets.
 </p>
 
 ___
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l6b51AG.png" height="80%" width="80%" alt="Ticket Creation"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In order to create your first ticket head over to http://localhost/osTicket/. Once on the page click " Open a New Ticket".
 </p>
 
 ___
