@@ -127,10 +127,15 @@ the user you will then need to login under the agent that you reassigned the tic
 ___
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3ishGDe.png" height="80%" width="80%" alt="Resolving Second Ticket Part 2"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Because we reassigned the ticket to John, we are now logged in under John's account so that we can finish up our second ticket.
+When you open up the ticket again you can notice all of the updates Jane Doe made prior to the ticket being transferred. Because 
+the priority level and SLA was already updated by Jane, the only thing left for John to do is to resolve the issue. In our example 
+to resolve the issue, John decided to rollback the version of adobe reader to allow the accounting to use the software again. You
+can of course come up with your own unique resolution for the assigned agent. Once you enter your reply to the user, change the
+status to resolved and post reply and you will be officially done working your second ticket.
 </p>
 
 ___
