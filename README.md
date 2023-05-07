@@ -113,7 +113,7 @@ and inform the user that the issue has been resolved by another member of our te
 ___
 
 <p>
-<img src="https://i.imgur.com/sjn2xr2.png" height="80%" width="80%" alt="Resolving Second Ticket"/>
+<img src="https://i.imgur.com/sjn2xr2.png" height="80%" width="80%" alt="Resolving the Second Ticket"/>
 </p>
 <p>
 Now that the first ticket has been resolved lets head over to our next ticket. Click any of the tickets that you have left available and
@@ -127,7 +127,7 @@ the user you will then need to login under the agent that you reassigned the tic
 ___
 
 <p>
-<img src="https://i.imgur.com/3ishGDe.png" height="80%" width="80%" alt="Resolving Second Ticket Part 2"/>
+<img src="https://i.imgur.com/3ishGDe.png" height="80%" width="80%" alt="Resolving the Second Ticket Part 2"/>
 </p>
 <p>
 Because we reassigned the ticket to John, we are now logged in under John's account so that we can finish up our second ticket.
@@ -141,28 +141,21 @@ status to resolved and post reply and you will be officially done working your s
 ___
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/x7ejbXJ.png" height="80%" width="80%" alt="Resolving the Third Ticket"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+So now that our second ticket has been resolved we can head to our third and final ticket. Once in the ticket repeat the same general
+process that was used in the prior two tickets by reviewing the priority level, department and SLA Plan. In our example the user is just
+asking a question about a hardware refresh and so we changed the priority from Normal to Low and the SLA Plan from default to SEV-C. We
+assigned the ticket to John because we are already logined into his agent account. For a simple ticket like this, we were able to
+resolve it very quickly by simply answering the customer's question and hitting "post reply" with a resolved ticket status.
 </p>
 
 ___
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Tutorial Completed"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
-
-___
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-
-___
