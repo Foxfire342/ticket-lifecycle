@@ -86,6 +86,12 @@ ticket we decided that the Support department may not be best equipped and so we
 which Jane is already a member of. To change departments click on the current department and select a different option. Also be 
 sure that you have agents assigned to the new department that you decide to switch the ticket to or you will have to go back to 
 your admin account and add them to the new department so that they can access the ticket.
+
+Now that we have adjusted the priority, department and SLA, we can post a reply to the user letting them know that we are working
+on their ticket or if the incident was simple we can send them a message saying that the issue has been resolved and briefly
+explaining what was done. In my ticket I sent a short message saying that I was coordinating with the Sys Admin Team to address
+the issue. If the issue is still open then leave the ticket status as open or if you resolved your ticket then change it to closed 
+to close out the ticket and then hit "post reply".
 </p>
 
 ___
