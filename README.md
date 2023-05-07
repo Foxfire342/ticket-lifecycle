@@ -146,16 +146,21 @@ ___
 <p>
 So now that our second ticket has been resolved we can head to our third and final ticket. Once in the ticket repeat the same general
 process that was used in the prior two tickets by reviewing the priority level, department and SLA Plan. In our example the user is just
-asking a question about a hardware refresh and so we changed the priority from Normal to Low and the SLA Plan from default to SEV-C. We
-assigned the ticket to John because we are already logined into his agent account. For a simple ticket like this, we were able to
+asking a question about a hardware refresh and so we changed the priority from Normal to Low and the SLA Plan from default to SEV-C. 
+We assigned the ticket to John because we are already logined into his agent account. For a simple ticket like this, we were able to
 resolve it very quickly by simply answering the customer's question and hitting "post reply" with a resolved ticket status.
 </p>
 
 ___
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Tutorial Completed"/>
+<img src="https://i.imgur.com/SKl9cPC.png" height="80%" width="80%" alt="Tutorial Completed"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Congratulations, we have now finished working all of our tickets! We went through each step of the ticket lifecycle process from intake 
+(ticket creation by the user), assignment and communication ( when we are logged in as the agent and are assigning the ticket to ourselves 
+or others and sending the initial response to the user), working the issue( when we do behind the scenes research to solve the issue that 
+they are facing) and resolution (when we send them a message telling them how we briefly resolved their problem and let them know everything
+is fixed). After going through all three tutorials I hope that you have a better understanding of how osTicket works and how you can potentially
+use it in your organization.
 </p>
