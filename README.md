@@ -116,7 +116,12 @@ ___
 <img src="https://i.imgur.com/sjn2xr2.png" height="80%" width="80%" alt="Resolving Second Ticket"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now that the first ticket has been resolved lets head over to our next ticket. Click any of the tickets that you have left available and
+start working the tickey by reviewing the priority, SLA Plan and department. In our example we changed the priority from normal to high due
+to the issue being department wide and we changed the SLA from default to SEV-B. We kept the department the same because the issue seems like
+something the support team can handle. For this particular ticket try assigning it to a different agent. In our example we ended up assigning 
+it from Jane to John and then sent the user a message that their ticket was being assigned to John. After you reassign the ticket and message 
+the user you will then need to login under the agent that you reassigned the ticket to, to ultimately resolve and close the ticket.
 </p>
 
 ___
