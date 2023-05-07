@@ -90,7 +90,7 @@ your admin account and add them to the new department so that they can access th
 Now that we have adjusted the priority, department and SLA, we can post a reply to the user letting them know that we are working
 on their ticket or if the incident was simple we can send them a message saying that the issue has been resolved and briefly
 explaining what was done. In my ticket I sent a short message saying that I was coordinating with the Sys Admin Team to address
-the issue. If the issue is still open then leave the ticket status as open or if you resolved your ticket then change it to closed 
+the issue. If the issue is still open then leave the ticket status as open or if you resolved your ticket then change it to resolved
 to close out the ticket and then hit "post reply".
 </p>
 
@@ -98,10 +98,16 @@ ___
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/PPFz6zo.png" height="40%" width="40%" alt="Ticket Page"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://i.imgur.com/5EbUfDp.png" height="40%" width="40%" alt="Resolving First Ticket"/>
+</p>
+<p>
+If your first ticket is still open you can head back to the main ticket page as shown above and see the priority level and agent information
+that has been updated next to the ticket. We do want to resolve this emergency ticket swiftly so in our example we go back into the ticket
+and inform the user that the issue has been resolved by another member of our team and selected resolve to close out the ticket. Once I hit
+"post reply" this ticket will no longer show up on the open tickets page but still can be found via the Closed tab under Tickets.
 </p>
 
 ___
