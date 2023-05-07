@@ -106,7 +106,7 @@ ___
 <p>
 If your first ticket is still open you can head back to the main ticket page as shown above and see the priority level and agent information
 that has been updated next to the ticket. We do want to resolve this emergency ticket swiftly so in our example we go back into the ticket
-and inform the user that the issue has been resolved by another member of our team and selected resolve to close out the ticket. Once I hit
+and inform the user that the issue has been resolved by another member of our team and select resolve to close out the ticket. Once I hit
 "post reply" this ticket will no longer show up on the open tickets page but still can be found via the Closed tab under Tickets.
 </p>
 
