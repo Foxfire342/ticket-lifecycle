@@ -98,10 +98,10 @@ ___
 
 
 <p>
-<img src="https://i.imgur.com/PPFz6zo.png" height="40%" width="40%" alt="Ticket Page"/>
+<img src="https://i.imgur.com/PPFz6zo.png" height="50%" width="50%" alt="Ticket Page"/>
 </p>
 <p>
-<img src="https://i.imgur.com/5EbUfDp.png" height="40%" width="40%" alt="Resolving First Ticket"/>
+<img src="https://i.imgur.com/5EbUfDp.png" height="50%" width="50%" alt="Resolving First Ticket"/>
 </p>
 <p>
 If your first ticket is still open you can head back to the main ticket page as shown above and see the priority level and agent information
