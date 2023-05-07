@@ -73,8 +73,19 @@ ___
 Let's start by addressing our first ticket. Open one of the tickets and it should look similiar to the picture shown above.
 Next we will start "working" the ticket. Based on the information sent to us by the user we will first evaluate if we need to
 make a change to the priority level. You can change the priority level by clicking on "Normal" next it and a window should pop up
-with different priority options. In my example, given that the online banking system is down, I changed the priority from Normal to
-emergency given the situation. After updating the priority
+with different priority options. 
+  
+In my example, given that the online banking system is down, I changed the priority from Normal to emergency given the situation. 
+After updating the priority the next step would be to assign the ticket to an agent. You can do this by clicking the space next to 
+"assigned to" and selecting one the agents from the list. In this example we decided to use the same  agent (Jane), that we are 
+already logged in as. Next we will determine the SLA Plan, and for this example we would choosed SEV-A given the priority of this 
+ticket. You can assign the SLA by clicking "Default SLA" and then choosing from the options that you created in the prior tutorial. 
+
+After assigning the SLA we would then move on to determining which department would be best suited to handle this issue. In our 
+ticket we decided that the Support department may not be best equipped and so we changed the department to System Adminstrators 
+which Jane is already a member of. To change departments click on the current department and select a different option. Also be 
+sure that you have agents assigned to the new department that you decide to switch the ticket to or you will have to go back to 
+your admin account and add them to the new department so that they can access the ticket.
 </p>
 
 ___
